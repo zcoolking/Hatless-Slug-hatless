@@ -1,0 +1,13 @@
+{
+  "key.hatless.open": "Open Head Settings",
+  "key.category.hatless.main": "Hatless",
+  "screen.hatless.title": "Hatless",
+  "screen.hatless.subtitle": "Head customization",
+  "screen.hatless.size": "Head size",
+  "screen.hatless.width": "Head width",
+  "screen.hatless.hide": "Hide head",
+  "screen.hatless.hidden": "HIDDEN",
+  "screen.hatless.reset": "Reset",
+  "screen.hatless.done": "Done",
+  "screen.hatless.footer": "Synced with other Hatless players"
+}

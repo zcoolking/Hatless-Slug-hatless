@@ -1,0 +1,13 @@
+{
+  "key.hatless.open": "Kopf-Einstellungen öffnen",
+  "key.category.hatless.main": "Hatless",
+  "screen.hatless.title": "Hatless",
+  "screen.hatless.subtitle": "Kopf anpassen",
+  "screen.hatless.size": "Kopfgröße",
+  "screen.hatless.width": "Kopfbreite",
+  "screen.hatless.hide": "Kopf ausblenden",
+  "screen.hatless.hidden": "UNSICHTBAR",
+  "screen.hatless.reset": "Zurücksetzen",
+  "screen.hatless.done": "Fertig",
+  "screen.hatless.footer": "Wird mit anderen Hatless-Spielern synchronisiert"
+}

@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "dev.hatless.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "BipedEntityModelMixin",
+    "EntityRenderStateMixin",
+    "LivingEntityRendererMixin",
+    "PlayerListHudMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
